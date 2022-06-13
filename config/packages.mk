@@ -8,13 +8,11 @@ ifneq ($(USE_GAPPS),true)
 PRODUCT_PACKAGES += \
     AwakenThemePickerOverlay \
     AwakenThemesStub \
-    Apps \
     Backgrounds \
     Eleven \
     Etar \
     ExactCalculator \
     GmsCompat \
-    Jelly \
     Seedvault
 endif
 
